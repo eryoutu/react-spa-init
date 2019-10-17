@@ -1,0 +1,10 @@
+$nav-color: #F90;
+.color {
+  color: $nav-color;
+  &-text {
+    color: aquamarine;
+  }
+}
+.text {
+  color: red;
+}
